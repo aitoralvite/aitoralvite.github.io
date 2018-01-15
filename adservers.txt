@@ -1,6 +1,6 @@
 | Adservers.txt
 | This list was compiled with the aim of its easy incorporation into iOS app AdBlock by Futuremind.
-| I recommend first going into Manage DNS rules section and adding a new Adservers group into IP 127.0.0.1
+| I recommend first going into Manage DNS rules section and adding a new Adservers group into 127.0.0.1 IP.
 | Then simply import this URL as DNS rules and assign to the previous group to start circumventing ads.
 | To update, delete the group and follow the steps above again.
 | Last time modified: 15-jan-2018
